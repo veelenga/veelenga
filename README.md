@@ -9,7 +9,7 @@ Building scalable systems and efficient infrastructure with a passion for clean 
 ### AI related
 - **[Claude Mermaid](https://github.com/veelenga/claude-mermaid)** - MCP server for rendering Mermaid diagrams in Claude Code
 - **[Phrase Bridge](https://github.com/veelenga/phrase-bridge)** - Language learning with daily AI-generated phrases
-- **[Prompt Garmin Workout](https://github.com/veelenga/openapi-garmin-workout)** - Create Garmin workouts with generative AI
+- **[Prompt Garmin Workout](https://github.com/veelenga/prompt-garmin-workout)** - Create Garmin workouts with generative AI
 
 ### Crystal Language Ecosystem
 - **[Ameba](https://github.com/crystal-ameba/ameba)** - Static code analysis tool (540+ ⭐)
