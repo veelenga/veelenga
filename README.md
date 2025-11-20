@@ -17,12 +17,16 @@ Building scalable systems and efficient infrastructure with a passion for clean 
 - **[Awesome Crystal](https://github.com/veelenga/awesome-crystal)** - Curated list of Crystal libraries (3.5k+ ⭐)
 - **[Crystal Patterns](https://github.com/crystal-community/crystal-patterns)** - GOF design patterns in Crystal (300+ ⭐)
 - **[Crystal [ANN]](https://github.com/crystal-community/crystal-ann)** - Announcement platform for Crystal community
+- **[Lua.cr](https://github.com/veelenga/lua.cr)** - Lua bindings for Crystal
+- **[AASM.cr](https://github.com/veelenga/aasm.cr)** - Finite state machine library for Crystal
+- **[Emoji.cr](https://github.com/veelenga/emoji.cr)** - Emoji library for Crystal
 - **[Ameba.el](https://github.com/crystal-ameba/ameba.el)** - Emacs plugin for Ameba static code analysis
 
 ### Other
 - **[Donaty.io](https://donaty.io)** - Fully transparent on-chain donation platform
 - **[JSON:API Payload Explorer](https://github.com/veelenga/jsonapi-payload-explorer)** - Tool to preview, search and inspect JSON:API payloads
 - **[Russia Block List](https://github.com/veelenga/rblist)** - Track companies' response to Russia invasion #StandWithUkraine
+- **[Carbon Now SH](https://github.com/veelenga/carbon-now-sh.el)** - Emacs plugin for creating beautiful code screenshots
 
 ### Open Source Contributions
 
