@@ -19,12 +19,10 @@ Building scalable systems and efficient infrastructure with a passion for clean 
 - **[Crystal [ANN]](https://github.com/crystal-community/crystal-ann)** - Announcement platform for Crystal community
 - **[Ameba.el](https://github.com/crystal-ameba/ameba.el)** - Emacs plugin for Ameba static code analysis
 
-### Developer Tools
+### Other
+- **[Donaty.io](https://donaty.io)** - Fully transparent on-chain donation platform
 - **[JSON:API Payload Explorer](https://github.com/veelenga/jsonapi-payload-explorer)** - Tool to preview, search and inspect JSON:API payloads
 - **[Russia Block List](https://github.com/veelenga/rblist)** - Track companies' response to Russia invasion #StandWithUkraine
-
-### Web3 & Blockchain
-- **[Donaty.io](https://donaty.io)** - Fully transparent on-chain donation platform
 
 ### Open Source Contributions
 
