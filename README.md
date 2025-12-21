@@ -24,6 +24,7 @@ Building scalable systems and efficient infrastructure with a passion for clean 
 - **[Ameba.el](https://github.com/crystal-ameba/ameba.el)** - Emacs plugin for Ameba static code analysis
 
 ### Other
+- **[Yodex](https://veelenga.github.io/yodex/)** - Interview quiz generator
 - **[Donaty.io](https://donaty.io)** - Fully transparent on-chain donation platform
 - **[JSON:API Payload Explorer](https://github.com/veelenga/jsonapi-payload-explorer)** - Tool to preview, search and inspect JSON:API payloads
 - **[Russia Block List](https://github.com/veelenga/rblist)** - Track companies' response to Russia invasion #StandWithUkraine
