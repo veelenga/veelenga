@@ -12,6 +12,7 @@ Building scalable systems and efficient infrastructure with a passion for clean 
 - **[Jot MCP](https://github.com/veelenga/jot-mcp)** - MCP server for managing contextual notes and reminders
 - **[Phrase Bridge](https://github.com/veelenga/phrase-bridge)** - Language learning with daily AI-generated phrases
 - **[Prompt Garmin Workout](https://github.com/veelenga/prompt-garmin-workout)** - Create Garmin workouts with generative AI
+- **[ZWO Generator](https://github.com/veelenga/zwo-generator)** - Create Zwift workouts with generative AI
 
 ### Crystal Language Ecosystem
 - **[Ameba](https://github.com/crystal-ameba/ameba)** - Static code analysis tool (540+ ⭐)
