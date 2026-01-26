@@ -7,6 +7,7 @@ Building scalable systems and efficient infrastructure with a passion for clean 
 ## Featured Projects
 
 ### AI related
+- **[Preview Skills](https://veelenga.github.io/preview-skills/)** - Self-contained preview skills for visualizing files in the browser
 - **[Claude Mermaid](https://github.com/veelenga/claude-mermaid)** - MCP server for rendering Mermaid diagrams in Claude Code
 - **[AWS SSO MCP](https://github.com/veelenga/aws-sso-mcp)** - MCP server for refreshing AWS SSO authentication tokens
 - **[Jot MCP](https://github.com/veelenga/jot-mcp)** - MCP server for managing contextual notes and reminders
