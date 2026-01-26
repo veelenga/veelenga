@@ -6,14 +6,23 @@ Building scalable systems and efficient infrastructure with a passion for clean 
 
 ## Featured Projects
 
-### AI related
+### SWE Tools
 - **[Preview Skills](https://veelenga.github.io/preview-skills/)** - Self-contained preview skills for visualizing files in the browser
 - **[Claude Mermaid](https://github.com/veelenga/claude-mermaid)** - MCP server for rendering Mermaid diagrams in Claude Code
 - **[AWS SSO MCP](https://github.com/veelenga/aws-sso-mcp)** - MCP server for refreshing AWS SSO authentication tokens
 - **[Jot MCP](https://github.com/veelenga/jot-mcp)** - MCP server for managing contextual notes and reminders
+- **[Carbon Now SH](https://github.com/veelenga/carbon-now-sh.el)** - Emacs plugin for creating beautiful code screenshots
+- **[JSON:API Payload Explorer](https://github.com/veelenga/jsonapi-payload-explorer)** - Preview, search and inspect JSON:API payloads
+
+### Learning & hobbies
+- **[Yodex](https://veelenga.github.io/yodex/)** - Interview quiz generator
+- **[GCCG](https://veelenga.github.io/gccg/)** - GitHub Contributions Calendar Games
 - **[Phrase Bridge](https://github.com/veelenga/phrase-bridge)** - Language learning with daily AI-generated phrases
 - **[Prompt Garmin Workout](https://github.com/veelenga/prompt-garmin-workout)** - Create Garmin workouts with generative AI
 - **[ZWO Generator](https://github.com/veelenga/zwo-generator)** - Create Zwift workouts with generative AI
+- **[Zwiftpower Race Replay](https://github.com/veelenga/zwiftpower-race-replay)** - Replay Zwift races
+- **[Russia Block List](https://github.com/veelenga/rblist)** - Track companies' response to Russia invasion #StandWithUkraine
+- **[Donaty.io](https://donaty.io)** - Fully transparent on-chain donation platform
 
 ### Crystal Language Ecosystem
 - **[Ameba](https://github.com/crystal-ameba/ameba)** - Static code analysis tool (540+ ⭐)
@@ -24,17 +33,6 @@ Building scalable systems and efficient infrastructure with a passion for clean 
 - **[AASM.cr](https://github.com/veelenga/aasm.cr)** - Finite state machine library for Crystal
 - **[Emoji.cr](https://github.com/veelenga/emoji.cr)** - Emoji library for Crystal
 - **[Ameba.el](https://github.com/crystal-ameba/ameba.el)** - Emacs plugin for Ameba static code analysis
-
-### Other
-- **[Yodex](https://veelenga.github.io/yodex/)** - Interview quiz generator
-- **[GCCG](https://veelenga.github.io/gccg/)** - GitHub Contributions Calendar Games
-- **[Donaty.io](https://donaty.io)** - Fully transparent on-chain donation platform
-- **[JSON:API Payload Explorer](https://github.com/veelenga/jsonapi-payload-explorer)** - Tool to preview, search and inspect JSON:API payloads
-- **[Russia Block List](https://github.com/veelenga/rblist)** - Track companies' response to Russia invasion #StandWithUkraine
-- **[Carbon Now SH](https://github.com/veelenga/carbon-now-sh.el)** - Emacs plugin for creating beautiful code screenshots
-
-### Open Source Contributions
-
 - Contributor to **[Crystal Language](https://github.com/crystal-lang/crystal)** (20k+ ⭐)
 - Maintainer of multiple Crystal community projects
 
