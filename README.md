@@ -6,8 +6,8 @@ Building scalable systems and efficient infrastructure with a passion for clean 
 
 ## Featured Projects
 
-### SWE Tools
-- **[Preview Skills](https://veelenga.github.io/preview-skills/)** - Self-contained preview skills for visualizing files in the browser
+### Tools
+- **[Preview Skills](https://veelenga.github.io/preview-skills/)** - Reduce cognitive load when reviewing AI agent work
 - **[Claude Mermaid](https://github.com/veelenga/claude-mermaid)** - MCP server for rendering Mermaid diagrams in Claude Code
 - **[AWS SSO MCP](https://github.com/veelenga/aws-sso-mcp)** - MCP server for refreshing AWS SSO authentication tokens
 - **[Jot MCP](https://github.com/veelenga/jot-mcp)** - MCP server for managing contextual notes and reminders
@@ -26,6 +26,7 @@ Building scalable systems and efficient infrastructure with a passion for clean 
 
 ### Crystal Language Ecosystem
 - **[Ameba](https://github.com/crystal-ameba/ameba)** - Static code analysis tool (540+ ⭐)
+- **[Autobot](https://github.com/crystal-autobot/autobot)** - Ultra-efficient personal AI assistant powered by Crystal
 - **[Awesome Crystal](https://github.com/veelenga/awesome-crystal)** - Curated list of Crystal libraries (3.5k+ ⭐)
 - **[Crystal Patterns](https://github.com/crystal-community/crystal-patterns)** - GOF design patterns in Crystal (300+ ⭐)
 - **[Crystal [ANN]](https://github.com/crystal-community/crystal-ann)** - Announcement platform for Crystal community
