@@ -10,7 +10,6 @@ Building scalable systems and efficient infrastructure with a passion for clean 
 - **[Preview Skills](https://veelenga.github.io/preview-skills/)** - Reduce cognitive load when reviewing AI agent work
 - **[Claude Mermaid](https://github.com/veelenga/claude-mermaid)** - MCP server for rendering Mermaid diagrams in Claude Code
 - **[AWS SSO MCP](https://github.com/veelenga/aws-sso-mcp)** - MCP server for refreshing AWS SSO authentication tokens
-- **[Jot MCP](https://github.com/veelenga/jot-mcp)** - MCP server for managing contextual notes and reminders
 - **[Carbon Now SH](https://github.com/veelenga/carbon-now-sh.el)** - Emacs plugin for creating beautiful code screenshots
 - **[JSON:API Payload Explorer](https://github.com/veelenga/jsonapi-payload-explorer)** - Preview, search and inspect JSON:API payloads
 
