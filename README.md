@@ -14,6 +14,7 @@ Building scalable systems and efficient infrastructure with a passion for clean 
 - **[JSON:API Payload Explorer](https://github.com/veelenga/jsonapi-payload-explorer)** - Preview, search and inspect JSON:API payloads
 
 ### Learning & hobbies
+- **[POV Shorts](https://pov-shorts.com/)** - Skills that turns long POV footage into publish-ready Shorts
 - **[Yodex](https://veelenga.github.io/yodex/)** - Interview quiz generator
 - **[GCCG](https://veelenga.github.io/gccg/)** - GitHub Contributions Calendar Games
 - **[Phrase Bridge](https://github.com/veelenga/phrase-bridge)** - Language learning with daily AI-generated phrases
