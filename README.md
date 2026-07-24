@@ -7,14 +7,14 @@ Building scalable systems and efficient infrastructure with a passion for clean 
 ## Featured Projects
 
 ### Tools
-- **[Preview Skills](https://veelenga.github.io/preview-skills/)** - Reduce cognitive load when reviewing AI agent work
+- **[POV Shorts](https://pov-shorts.com/)** - Skills that turns long POV footage into publish-ready Shorts
 - **[Claude Mermaid](https://github.com/veelenga/claude-mermaid)** - MCP server for rendering Mermaid diagrams in Claude Code
 - **[AWS SSO MCP](https://github.com/veelenga/aws-sso-mcp)** - MCP server for refreshing AWS SSO authentication tokens
+- **[Preview Skills](https://veelenga.github.io/preview-skills/)** - Reduce cognitive load when reviewing AI agent work
 - **[Carbon Now SH](https://github.com/veelenga/carbon-now-sh.el)** - Emacs plugin for creating beautiful code screenshots
 - **[JSON:API Payload Explorer](https://github.com/veelenga/jsonapi-payload-explorer)** - Preview, search and inspect JSON:API payloads
 
 ### Learning & hobbies
-- **[POV Shorts](https://pov-shorts.com/)** - Skills that turns long POV footage into publish-ready Shorts
 - **[Yodex](https://veelenga.github.io/yodex/)** - Interview quiz generator
 - **[GCCG](https://veelenga.github.io/gccg/)** - GitHub Contributions Calendar Games
 - **[Phrase Bridge](https://github.com/veelenga/phrase-bridge)** - Language learning with daily AI-generated phrases
